@@ -59,20 +59,6 @@ I'm a **Mobile Developer** with high passion to learn and grow within the indust
 
 ---
 
-## 📱 Featured Projects
-
-### 🎯 **Professional Projects**
-- **GSI - HRIS** - Human Resources Information System
-- **Mavent Video Booth App** - Interactive video application
-- **USFC - Logistics Tracking App** - Real-time logistics management
-
-### 🔬 **Personal Projects**
-- **Coco Face Recognition** - Advanced face recognition system using deep learning
-- **LLM Chat** - On-premise Large Language Model chat application
-- **CocoSpeak** - Text-to-speech and speech processing application
-
----
-
 ## 🏅 Certificates
 
 - 📜 Software & Data Engineering
