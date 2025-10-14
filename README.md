@@ -8,6 +8,12 @@
 
 </div>
 
+<div align="center">
+
+[🌐 Visit My Portfolio](https://zetakai.github.io)
+
+</div>
+
 ## 🚀 About Me
 
 I'm a **Mobile Developer** with high passion to learn and grow within the industry. I'm a results-driven and collaborative person with good analytical skills. Working in a team always brings something new to me and I see feedback as a good way to become better.
