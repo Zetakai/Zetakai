@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[🌐 Visit My Portfolio](https://zetakai.github.io)
+🌐 https://zetakai.github.io
 
 </div>
 
