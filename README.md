@@ -78,7 +78,7 @@ I'm a **Mobile Developer** with high passion to learn and grow within the indust
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zetakai&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Zetakai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Streak&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zetakai&theme=tokyonight&hide_border=true)
 
 </div>
 
