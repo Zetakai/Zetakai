@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Muhammad Farid Zaki (Zetakai)
+# 👋 Hi there, I'm Muhammad Farid Zaki
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zetakai&color=blueviolet&style=flat-square&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/Zetakai?style=social)
