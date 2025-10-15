@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **Mobile Developer** with high passion to learn and grow within the industry. I'm a results-driven and collaborative person with good analytical skills. Working in a team always brings something new to me and I see feedback as a good way to become better.
+I'm a **Mobile Developer** focused on building high-quality, results-driven applications. I thrive in collaborative environments and leverage strong analytical skills to solve complex problems and drive project success. For me, continuous learning and incorporating feedback are essential steps in developing both code and career.
 
 ### 💼 Current Role
 **Mobile Developer** at [PT Macra Teknologi Indonesia](https://github.com/macra-id) (08/2022 – present)  
