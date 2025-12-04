@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Muhammad Farid Zaki
+# Muhammad Farid Zaki
 
 ### Mobile & Full Stack Developer
 
@@ -10,47 +10,46 @@
 
 <br>
 
-**🌐 Portfolio:** [zetakai.github.io](https://zetakai.github.io)  
+**Portfolio:** [zetakai.github.io](https://zetakai.github.io)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-A **results-driven mobile developer** with **3+ years** of professional experience, specializing in React Native for cross-platform development. Based in **Jakarta, Indonesia**.
+Results-driven mobile developer with **3+ years** of professional experience, specializing in React Native for cross-platform development. Based in **Jakarta, Indonesia**.
 
 While my primary focus is mobile development, I work across the full stack—building backend APIs, web applications, and integrating advanced features like face recognition, live tracking, and AI capabilities. Currently exploring **Rust** and diving deeper into **AI technologies**.
 
 ```javascript
 const developer = {
   name: "Zaki",
-  role: "Mobile Dev",
-  canDo: "Full Stack",
-  passion: "AI",
-  drink: "Coconut"
+  role: "Mobile Developer",
+  expertise: "Full Stack Development",
+  focus: "AI/ML Integration",
+  location: "Jakarta, Indonesia"
 };
 ```
 
-### 💼 Professional Experience
+### Current Role
 **Mobile Developer** at [PT Macra Teknologi Indonesia](https://github.com/macra-id)  
-📅 August 2022 – Present | 📍 Jakarta, Indonesia
+Jakarta, Indonesia
 
-### 🎓 Education
-- **Informatics** - Institut Teknologi Tangerang Selatan (2024 – Present)
-- **Accounting & Finance** - Politeknik Keuangan Negara STAN (2017 – 2018)
+### Education
+**Informatics** — Institut Teknologi Tangerang Selatan
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### 💻 **Languages**
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### ⚛️ **Frameworks & Libraries**
+### Frameworks & Libraries
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -63,7 +62,7 @@ const developer = {
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🤖 **AI/ML Tools**
+### AI/ML Technologies
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -71,10 +70,9 @@ const developer = {
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
-**Specialized in:**  
-`Face Recognition` • `Object Detection` • `LLM Integration` • `Computer Vision` • `OCR` • `Speech Recognition`
+**Specializations:** Face Recognition • Object Detection • LLM Integration • Computer Vision • OCR • Speech Recognition
 
-### ☁️ **Cloud & DevOps**
+### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -82,7 +80,7 @@ const developer = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-### 🛠️ **Tools & APIs**
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
@@ -92,50 +90,50 @@ const developer = {
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 [Gliana Labs](https://glianalabs.com/)
-**AI Platform** • *2025*
+### [Gliana Labs](https://glianalabs.com/)
+**AI Platform | 2025**
 
-Cutting-edge AI solutions provider and SaaS platform. Machine learning, computer vision, OCR, chatbots, and custom AI model development.
+Cutting-edge AI solutions provider and SaaS platform offering machine learning, computer vision, OCR, chatbots, and custom AI model development services.
 
-**Tech:** Python • TensorFlow • FastAPI • React
+**Stack:** Python • TensorFlow • FastAPI • React
 
 </td>
 <td width="50%">
 
-### 👤 [Coco Face Recognition](https://github.com/Zetakai/coco-face-recog)
-**Python** • *2025*
+### [Coco Face Recognition](https://github.com/Zetakai/coco-face-recog)
+**Computer Vision | 2025**
 
-Advanced face recognition system using deep learning and computer vision to accurately identify and verify individuals in real-time.
+Advanced face recognition system utilizing deep learning and computer vision technologies to accurately identify and verify individuals in real-time environments.
 
-**Tech:** OpenCV • PyTorch • MediaPipe
+**Stack:** OpenCV • PyTorch • MediaPipe
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎙️ [CocoSpeak](https://github.com/Zetakai/CocoSpeak)
-**Python** • *2025*
+### [CocoSpeak](https://github.com/Zetakai/CocoSpeak)
+**Speech Synthesis | 2025**
 
-Text-to-speech and speech processing application leveraging AI to deliver natural and expressive voice synthesis capabilities.
+Text-to-speech and speech processing application leveraging artificial intelligence to deliver natural and expressive voice synthesis capabilities.
 
-**Tech:** TensorFlow • Speech Recognition
+**Stack:** TensorFlow • Speech Recognition APIs
 
 </td>
 <td width="50%">
 
-### 📱 Mobile Apps
-**React Native** • *2022-Present*
+### Mobile Applications
+**React Native | 2022–Present**
 
-10+ published applications on Google Play Store and Apple App Store with thousands of active users.
+Developed and published 10+ cross-platform mobile applications on Google Play Store and Apple App Store, serving thousands of active users.
 
-**Features:** Live tracking • Face recognition • Maps
+**Features:** Real-time tracking • Face recognition • Map integration
 
 </td>
 </tr>
@@ -143,31 +141,53 @@ Text-to-speech and speech processing application leveraging AI to deliver natura
 
 <div align="center">
 
-**[➜ View All Projects](https://github.com/Zetakai?tab=repositories)**
+**[View All Projects →](https://github.com/Zetakai?tab=repositories)**
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## Professional Achievements
 
 <div align="center">
 
-| 📱 Apps Published | 👥 Active Users | 🎓 Certificates | ⭐ GitHub Stars |
-|:----------------:|:---------------:|:---------------:|:---------------:|
-| **10+** | **1000s** | **6+** | **Growing** |
+| Apps Published | Active Users | Professional Certificates | GitHub Activity |
+|:--------------:|:------------:|:-------------------------:|:---------------:|
+| **10+** | **1,000+** | **6** | **Active** |
 
 </div>
 
-### 📜 Certifications
-- ✅ Software & Data Engineering
-- ✅ Engineering with Python
-- ✅ Relational Database (SQL)
-- ✅ Mobile App Developer (React Native)
-- ✅ JavaScript Certificate
-- ✅ Golang Certificate
+### Certifications
+- Software & Data Engineering
+- Engineering with Python
+- Relational Database (SQL)
+- Mobile App Developer (React Native)
+- JavaScript Programming
+- Go Programming
 
-## 💬 Let's Connect
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zetakai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zetakai&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zetakai&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Current Focus
+
+Exploring advanced topics in **Rust** programming, **AI/ML** model optimization, **Computer Vision** applications, and **Large Language Model** integration.
+
+---
+
+## Contact
 
 <div align="center">
 
@@ -182,30 +202,6 @@ Text-to-speech and speech processing application leveraging AI to deliver natura
 
 <div align="center">
 
-### 💡 Currently Exploring
-
-`Rust` • `Advanced AI/ML` • `Computer Vision` • `LLM Applications`
-
-<br>
-
-**⚡ "Building end-to-end solutions that matter"**
-
-<br>
-
-![Visitor Count](https://profile-counter.glitch.me/Zetakai/count.svg)
-
-<br>
-
-*Open to new opportunities, collaborations, and interesting projects.*
-
-**⭐ Star repositories you find useful!**
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Built with 💻 and ☕ by [Zaki](https://github.com/Zetakai)</sub>
+**Open to new opportunities, collaborations, and innovative projects**
 
 </div>
