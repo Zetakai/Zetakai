@@ -10,7 +10,7 @@
 
 <br>
 
-**Portfolio:** [https://zetakai-github-io.pages.dev](https://zetakai-github-io.pages.dev/)
+**Portfolio:** [https://mfzaki.com](https://mfzaki.com/)
 
 </div>
 
