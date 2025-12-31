@@ -4,10 +4,6 @@
 
 ### Mobile & Full Stack Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zetakai&color=6366f1&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/Zetakai?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Zetakai?style=social)
-
 <br>
 
 **Portfolio:** [https://mfzaki.com](https://mfzaki.com/)
