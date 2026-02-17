@@ -29,7 +29,7 @@ const developer = {
 ```
 
 ### Current Role
-**Mobile Developer** at [PT Macra Teknologi Indonesia](https://github.com/macra-id)  
+**Founder & Developer** at [Gliana Labs](https://glianalabs.com)
 Jakarta, Indonesia
 
 ### Education
@@ -179,7 +179,10 @@ Developed and published 10+ cross-platform mobile applications on Google Play St
 
 ## Current Focus
 
-Exploring advanced topics in **Rust** programming, **AI/ML** model optimization, **Computer Vision** applications, and **Large Language Model** integration.
+Building **Gliana Labs** - an AI Solutions & SaaS Platform featuring:
+- Web3 products (GlianaPay - Solana tipping platform)
+- AI Services (Machine Learning, Computer Vision, OCR, Chatbots)
+- Custom AI model development
 
 ---
 
