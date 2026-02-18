@@ -21,9 +21,9 @@ Currently building **Gliana Labs** - an AI Solutions & SaaS Platform featuring W
 ```javascript
 const developer = {
   name: "Zaki",
-  role: "Mobile Developer",
+  role: "Founder",
   expertise: "Full Stack Development",
-  focus: "AI/ML Integration",
+  focus: "Web3 & AI",
   location: "Jakarta, Indonesia"
 };
 ```
