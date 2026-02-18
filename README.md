@@ -35,6 +35,12 @@ Jakarta, Indonesia
 ### Education
 **Informatics** — Institut Teknologi Tangerang Selatan
 
+### Current Focus 🚀
+Building **Gliana Labs** - an AI Solutions & SaaS Platform featuring:
+- Web3 products (GlianaPay - Solana tipping platform)
+- AI Services (Machine Learning, Computer Vision, OCR, Chatbots)
+- Custom AI model development
+
 ---
 
 ## Technical Skills
@@ -176,15 +182,6 @@ Developed and published 10+ cross-platform mobile applications on Google Play St
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zetakai&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## Current Focus
-
-Building **Gliana Labs** - an AI Solutions & SaaS Platform featuring:
-- Web3 products (GlianaPay - Solana tipping platform)
-- AI Services (Machine Learning, Computer Vision, OCR, Chatbots)
-- Custom AI model development
 
 ---
 
