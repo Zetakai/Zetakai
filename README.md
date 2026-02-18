@@ -16,7 +16,7 @@
 
 Results-driven mobile developer with **3+ years** of professional experience, specializing in React Native for cross-platform development. Based in **Jakarta, Indonesia**.
 
-While my primary focus is mobile development, I work across the full stack—building backend APIs, web applications, and integrating advanced features like face recognition, live tracking, and AI capabilities. Currently exploring **Rust** and diving deeper into **AI technologies**.
+Currently building **Gliana Labs** - an AI Solutions & SaaS Platform featuring Web3 products (GlianaPay - Solana tipping platform), AI Services (Machine Learning, Computer Vision, OCR, Chatbots), and custom AI model development. Also exploring **Rust** and pushing deeper into **AI technologies**.
 
 ```javascript
 const developer = {
