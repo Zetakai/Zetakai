@@ -35,6 +35,16 @@ Jakarta, Indonesia
 ### Education
 **Informatics** — Institut Teknologi Tangerang Selatan
 
+### Current Focus 🚀
+Currently building:
+
+| Project | Description |
+|---------|-------------|
+| **GlianaPay** | Web3 Solana tipping platform for streamers |
+| **Gliana Labs** | AI Solutions & SaaS Platform |
+
+*Exploring Rust and pushing deeper into AI/ML technologies.*
+
 ---
 
 ## Technical Skills
@@ -92,44 +102,66 @@ Jakarta, Indonesia
 <tr>
 <td width="50%">
 
-### [Gliana Labs](https://glianalabs.com/)
-**AI Platform | 2025**
+### [GlianaPay](https://glianapay.com)
+**Web3 Tipping Platform | Building**
 
-Cutting-edge AI solutions provider and SaaS platform offering machine learning, computer vision, OCR, chatbots, and custom AI model development services.
+Web3 tipping platform for streamers built on Solana blockchain. Accept SOL tips with real-time OBS overlay alerts, QR code payments, and multi-wallet support (Phantom, Solflare, Backpack).
 
-**Stack:** Python • TensorFlow • FastAPI • React
+[Visit Website](https://glianapay.com)
+
+**Stack:** SvelteKit 5 • Tailwind CSS • Cloudflare Workers • Solana • WebSocket • D1
 
 </td>
 <td width="50%">
 
-### [Coco Face Recognition](https://github.com/Zetakai/coco-face-recog)
-**Computer Vision | 2025**
+### [Gliana Labs](https://glianalabs.com/)
+**AI & SaaS Platform | Founder**
 
-Advanced face recognition system utilizing deep learning and computer vision technologies to accurately identify and verify individuals in real-time environments.
+Turnkey AI solutions provider offering machine learning, computer vision, OCR, chatbots, and custom AI model development. Also building Web3 products including GlianaPay (Solana tipping platform).
 
-**Stack:** OpenCV • PyTorch • MediaPipe
+[Visit Website](https://glianalabs.com/)
+
+**Stack:** Python • TensorFlow • FastAPI • React • SvelteKit
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### [CocoSpeak](https://github.com/Zetakai/CocoSpeak)
-**Speech Synthesis | 2025**
+### [Coco Face Recognition](https://github.com/Zetakai/coco-face-recog)
+**Computer Vision | Production**
 
-Text-to-speech and speech processing application leveraging artificial intelligence to deliver natural and expressive voice synthesis capabilities.
+Enterprise-grade face recognition system leveraging deep learning for accurate identity verification in real-time. Supports face detection, landmark detection, and liveness detection.
 
-**Stack:** TensorFlow • Speech Recognition APIs
+[View Project](https://github.com/Zetakai/coco-face-recog)
+
+**Stack:** Python • OpenCV • PyTorch • MediaPipe • FastAPI
 
 </td>
 <td width="50%">
 
-### Mobile Applications
-**React Native | 2022–Present**
+### [CocoSpeak](https://github.com/Zetakai/CocoSpeak)
+**AI Speech | Production**
 
-Developed and published 10+ cross-platform mobile applications on Google Play Store and Apple App Store, serving thousands of active users.
+Text-to-speech engine with natural voice synthesis, supporting multiple languages and voice customization. Powers voice assistants and accessibility features.
 
-**Features:** Real-time tracking • Face recognition • Map integration
+[View Project](https://github.com/Zetakai/CocoSpeak)
+
+**Stack:** Python • TensorFlow • Google Cloud Speech • WaveNet
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Mobile Apps Portfolio
+**React Native | 10+ Apps Published**
+
+Cross-platform mobile applications deployed to Google Play Store and Apple App Store. Features include real-time GPS tracking, face authentication, AR integration, and payment gateways.
+
+[View Apps →](https://play.google.com/store/apps/developer?id=Zetakai)
+
+**Stack:** React Native • Expo • Firebase • Maps SDK • Stripe
 
 </td>
 </tr>
@@ -174,15 +206,6 @@ Developed and published 10+ cross-platform mobile applications on Google Play St
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zetakai&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## Current Focus
-
-Building **Gliana Labs** - an AI Solutions & SaaS Platform featuring:
-- Web3 products (GlianaPay - Solana tipping platform)
-- AI Services (Machine Learning, Computer Vision, OCR, Chatbots)
-- Custom AI model development
 
 ---
 
