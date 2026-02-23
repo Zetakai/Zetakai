@@ -46,7 +46,7 @@ Jakarta, Indonesia
 ### AI & Web3 Platform
 **Founder**
 
-Turnkey AI solutions provider offering machine learning, computer vision, OCR, chatbots, and custom AI model development. Also building Web3 products including GlianaPay - a Solana tipping platform for streamers.
+Turnkey AI solutions provider offering machine learning, computer vision, OCR, chatbots, and custom AI model development. Also building Web3 products - a Solana tipping platform for streamers.
 
 
 **Stack:** Python, TensorFlow, FastAPI, React, SvelteKit, Solana
