@@ -43,12 +43,11 @@ Jakarta, Indonesia
 <tr>
 <td width="50%">
 
-### [Gliana Labs](https://glianalabs.com/)
-**AI & SaaS Platform | Founder**
+### AI & Web3 Platform
+**Founder**
 
 Turnkey AI solutions provider offering machine learning, computer vision, OCR, chatbots, and custom AI model development. Also building Web3 products including GlianaPay - a Solana tipping platform for streamers.
 
-[Visit Website](https://glianalabs.com/)
 
 **Stack:** Python, TensorFlow, FastAPI, React, SvelteKit, Solana
 
