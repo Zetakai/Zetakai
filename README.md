@@ -14,7 +14,7 @@
 
 ## About
 
-Results-driven developer with **3+ years** of professional experience. Based in **Jakarta, Indonesia**.
+Results-driven developer with **4+ years** of professional experience. Based in **Jakarta, Indonesia**.
 
 Currently building an AI & Web3 Solutions Platform featuring a solana tipping platform, AI Services (Machine Learning, Computer Vision, OCR, Chatbots), and custom AI model development. Also exploring **Rust** and pushing deeper into **AI technologies**.
 
