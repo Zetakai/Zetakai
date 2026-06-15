@@ -2,11 +2,11 @@
 
 # Muhammad Farid Zaki
 
-### Founder & Web3 Developer
+### Founder & Full-Stack Engineer — AI · Web3 · Mobile
 
-<br>
+Building production AI and Web3 products end to end — from model to deployment.
 
-**Portfolio:** [https://mfzaki.com](https://mfzaki.com/)
+**Portfolio:** [mfzaki.com](https://mfzaki.com/) · **Company:** [Gliana Labs](https://glianalabs.com)
 
 </div>
 
@@ -14,26 +14,26 @@
 
 ## About
 
-Results-driven developer with **4+ years** of professional experience. Based in **Jakarta, Indonesia**.
+Full-stack engineer with **4+ years** of professional experience shipping products across **AI/ML, Web3, and cross-platform mobile**. Based in **Jakarta, Indonesia**.
 
-Currently building an AI & Web3 Solutions Platform featuring a solana tipping platform, AI Services (Machine Learning, Computer Vision, OCR, Chatbots), and custom AI model development. Also exploring **Rust** and pushing deeper into **AI technologies**.
+Founder of **Gliana Labs**, an AI & Web3 solutions platform. I take products from the whiteboard to production: training and serving custom models, building the APIs around them, and shipping the apps users actually touch. Current focus is **Gliana AI** — turnkey machine learning, computer vision, OCR, and chatbot services — alongside **GlianaPay**, a Solana-based tipping platform for streamers. Also going deeper on **Rust** for high-performance systems.
 
 ```javascript
 const developer = {
   name: "Zaki",
-  role: "Founder",
-  expertise: "Full Stack Development",
-  focus: "Web3 & AI",
-  location: "Jakarta, Indonesia"
+  role: "Founder & Full-Stack Engineer",
+  company: "Gliana Labs",
+  focus: ["AI/ML", "Web3", "Mobile"],
+  ships: "model → API → product",
+  location: "Jakarta, Indonesia",
 };
 ```
 
 ### Current Role
-**Founder & Developer** at an AI & Web3 Platform
-Jakarta, Indonesia
+**Founder & Engineer** at [Gliana Labs](https://glianalabs.com) · Jakarta, Indonesia
 
 ### Education
-**Informatics** -- Institut Teknologi Tangerang Selatan
+**Informatics** — Institut Teknologi Tangerang Selatan
 
 ---
 
@@ -43,23 +43,24 @@ Jakarta, Indonesia
 <tr>
 <td width="50%">
 
-### AI & Web3 Platform
-**Founder**
+### [Gliana Labs](https://glianalabs.com/)
+**AI & Web3 Platform · Founder**
 
-Turnkey AI solutions provider offering machine learning, computer vision, OCR, chatbots, and custom AI model development. Also building Web3 products - a Solana tipping platform for streamers.
+Turnkey AI provider delivering machine learning, computer vision, OCR, chatbots, and custom model development — plus Web3 products including **GlianaPay**, a Solana tipping platform for streamers. Built and operated end to end.
 
+[Visit Website →](https://glianalabs.com/)
 
-**Stack:** Python, TensorFlow, FastAPI, React, SvelteKit, Solana
+**Stack:** Python · TensorFlow · FastAPI · React · SvelteKit · Solana
 
 </td>
 <td width="50%">
 
 ### [Coco Face Recognition](https://github.com/Zetakai/coco-face-recog)
-**Computer Vision | Production**
+**Computer Vision · Production**
 
-Advanced face recognition system utilizing deep learning and computer vision technologies to accurately identify and verify individuals in real-time environments.
+Real-time face recognition system using deep learning to identify and verify individuals with high accuracy under live conditions.
 
-**Stack:** Python, OpenCV, PyTorch, MediaPipe
+**Stack:** Python · OpenCV · PyTorch · MediaPipe
 
 </td>
 </tr>
@@ -67,21 +68,21 @@ Advanced face recognition system utilizing deep learning and computer vision tec
 <td width="50%">
 
 ### [CocoSpeak](https://github.com/Zetakai/CocoSpeak)
-**Speech Synthesis | Production**
+**Speech Synthesis · Production**
 
-Text-to-speech and speech processing application leveraging artificial intelligence to deliver natural and expressive voice synthesis capabilities.
+AI text-to-speech and speech-processing app producing natural, expressive voice output from text.
 
-**Stack:** Python, TensorFlow, Google Cloud Speech
+**Stack:** Python · TensorFlow · Google Cloud Speech
 
 </td>
 <td width="50%">
 
 ### Mobile Applications
-**React Native | 10+ Apps Published**
+**React Native · 10+ Apps Shipped**
 
-Developed and published 10+ cross-platform mobile applications on Google Play Store and Apple App Store, serving thousands of active users.
+Designed, built, and published 10+ cross-platform apps on the App Store and Google Play, serving thousands of active users.
 
-**Stack:** React Native, Expo, Firebase, Maps SDK
+**Stack:** React Native · Expo · Firebase · Maps SDK
 
 </td>
 </tr>
@@ -89,7 +90,7 @@ Developed and published 10+ cross-platform mobile applications on Google Play St
 
 <div align="center">
 
-[View All Projects](https://github.com/Zetakai?tab=repositories)
+[View All Projects →](https://github.com/Zetakai?tab=repositories)
 
 </div>
 
@@ -97,46 +98,39 @@ Developed and published 10+ cross-platform mobile applications on Google Play St
 
 ## Technical Skills
 
-### Languages
-JavaScript, TypeScript, Python, Go
+**Languages** — JavaScript · TypeScript · Python · Go · Rust *(learning)*
 
-### Frameworks & Libraries
-React Native, React, Next.js, Vue.js, Nuxt.js, Svelte, Expo, NestJS, FastAPI, Flask, Node.js
+**Frontend** — React · Next.js · Vue.js · Nuxt.js · Svelte / SvelteKit
 
-### AI/ML Technologies
-TensorFlow, PyTorch, scikit-learn, Keras, OpenCV, LangChain
+**Mobile** — React Native · Expo
 
-**Specializations:** Face Recognition, Object Detection, LLM Integration, Computer Vision, OCR, Speech Recognition
+**Backend** — Node.js · NestJS · FastAPI · Flask · GraphQL · REST · WebSocket
 
-### Cloud Platforms
-AWS, Azure, GCP, Firebase, Vercel, Cloudflare
+**AI / ML** — TensorFlow · PyTorch · Keras · scikit-learn · OpenCV · LangChain
+> *Computer Vision · Face Recognition · Object Detection · OCR · Speech Recognition · LLM Integration*
 
-### Development Tools
-Git, FFmpeg, Google Maps, GraphQL, REST API, WebSocket
+**Cloud & Infra** — AWS · Azure · GCP · Firebase · Vercel · Cloudflare
+
+**Tooling** — Git · Docker · FFmpeg · GraphQL · Google Maps SDK
 
 ---
 
-## Professional Achievements
+## By the Numbers
 
 <div align="center">
 
-| Apps Published | Active Users | Certificates | GitHub |
-|:--------------:|:------------:|:------------:|:------:|
-| 10+ | 10,000+ | 6 | Active |
+| Apps Shipped | Active Users | Certifications | Experience |
+|:------------:|:------------:|:--------------:|:----------:|
+| **10+** | **10,000+** | **6** | **4+ yrs** |
 
 </div>
 
 ### Certifications
-- Software & Data Engineering
-- Engineering with Python
-- Relational Database (SQL)
-- Mobile App Developer (React Native)
-- JavaScript Programming
-- Go Programming
+Software & Data Engineering · Engineering with Python · Relational Databases (SQL) · React Native · JavaScript · Go
 
 ---
 
-## GitHub Statistics
+## GitHub
 
 <div align="center">
 
@@ -154,17 +148,11 @@ Git, FFmpeg, Google Maps, GraphQL, REST API, WebSocket
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mfzaki.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mfzaki.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfzaki/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zetakai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfarid.zaki@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-
-Open to new opportunities, collaborations, and innovative projects
+**Open to collaborations, high-impact projects, and the occasional hard problem.**
 
 </div>
