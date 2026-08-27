@@ -24,13 +24,14 @@ Founder of **Gliana Labs**, an AI & Web3 solutions platform. I take products fro
 -->
 Founder of an independent **AI & Web3 platform**. I take products from the whiteboard to production: training and serving custom models, building the APIs around them, and shipping the apps users actually touch. Current focus is **turnkey AI services** — machine learning, computer vision, OCR, and chatbots — alongside a **Solana-based tipping platform** for streamers. Also going deeper on **Rust** for high-performance systems.
 
+<!-- DEBRAND ORIGINAL for the snippet below (restore by swapping the company line):
+  company: "Gliana Labs",
+-->
+
 ```javascript
 const developer = {
   name: "Zaki",
   role: "Founder & Full-Stack Engineer",
-<!-- DEBRAND ORIGINAL (uncomment to restore brand name):
-  company: "Gliana Labs",
--->
   company: "AI & Web3 Platform",
   focus: ["AI/ML", "Web3", "Mobile"],
   ships: "model → API → product",
