@@ -6,7 +6,10 @@
 
 Building production AI and Web3 products end to end — from model to deployment.
 
+<!-- DEBRAND ORIGINAL (uncomment to restore brand name):
 **Portfolio:** [mfzaki.com](https://mfzaki.com/) · **Company:** [Gliana Labs](https://glianalabs.com)
+-->
+**Portfolio:** [mfzaki.com](https://mfzaki.com/)
 
 </div>
 
@@ -16,13 +19,19 @@ Building production AI and Web3 products end to end — from model to deployment
 
 Full-stack engineer with **4+ years** of professional experience shipping products across **AI/ML, Web3, and cross-platform mobile**. Based in **Jakarta, Indonesia**.
 
+<!-- DEBRAND ORIGINAL (uncomment to restore brand name):
 Founder of **Gliana Labs**, an AI & Web3 solutions platform. I take products from the whiteboard to production: training and serving custom models, building the APIs around them, and shipping the apps users actually touch. Current focus is **Gliana AI** — turnkey machine learning, computer vision, OCR, and chatbot services — alongside **GlianaPay**, a Solana-based tipping platform for streamers. Also going deeper on **Rust** for high-performance systems.
+-->
+Founder of an independent **AI & Web3 platform**. I take products from the whiteboard to production: training and serving custom models, building the APIs around them, and shipping the apps users actually touch. Current focus is **turnkey AI services** — machine learning, computer vision, OCR, and chatbots — alongside a **Solana-based tipping platform** for streamers. Also going deeper on **Rust** for high-performance systems.
 
 ```javascript
 const developer = {
   name: "Zaki",
   role: "Founder & Full-Stack Engineer",
+<!-- DEBRAND ORIGINAL (uncomment to restore brand name):
   company: "Gliana Labs",
+-->
+  company: "AI & Web3 Platform",
   focus: ["AI/ML", "Web3", "Mobile"],
   ships: "model → API → product",
   location: "Jakarta, Indonesia",
@@ -30,7 +39,10 @@ const developer = {
 ```
 
 ### Current Role
+<!-- DEBRAND ORIGINAL (uncomment to restore brand name):
 **Founder & Engineer** at [Gliana Labs](https://glianalabs.com) · Jakarta, Indonesia
+-->
+**Founder & Engineer**, independent AI & Web3 platform · Jakarta, Indonesia
 
 ### Education
 **Informatics** — Institut Teknologi Tangerang Selatan
@@ -43,12 +55,20 @@ const developer = {
 <tr>
 <td width="50%">
 
+<!-- DEBRAND ORIGINAL (uncomment to restore brand name):
 ### [Gliana Labs](https://glianalabs.com/)
 **AI & Web3 Platform · Founder**
 
 Turnkey AI provider delivering machine learning, computer vision, OCR, chatbots, and custom model development — plus Web3 products including **GlianaPay**, a Solana tipping platform for streamers. Built and operated end to end.
 
 [Visit Website →](https://glianalabs.com/)
+
+**Stack:** Python · TensorFlow · FastAPI · React · SvelteKit · Solana
+-->
+### AI & Web3 Platform
+**Founder**
+
+Turnkey AI provider delivering machine learning, computer vision, OCR, chatbots, and custom model development — plus Web3 products including a Solana tipping platform for streamers. Built and operated end to end.
 
 **Stack:** Python · TensorFlow · FastAPI · React · SvelteKit · Solana
 
