@@ -1,14 +1,16 @@
 <div align="center">
 
-# Zetakai
+# Muhammad Farid Zaki
 
-### Full-Stack Engineer — AI · Web3 · Mobile
+### Founder at Gliana Labs — AI · Web3 · Mobile
 
-Production AI and Web3 products, end to end — model → API → shipped app.
+I ship the whole path: train and serve the model, write the API around it, put the app in the store, keep it running.
 
-[![Repositories](https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zetakai?tab=repositories)
-![Focus](https://img.shields.io/badge/Focus-AI%20%C2%B7%20Web3%20%C2%B7%20Mobile-6366f1?style=flat-square)
+[**Portfolio**](https://mfzaki.com) · [**LinkedIn**](https://www.linkedin.com/in/mfzaki/) · [**Email**](mailto:muhammadfarid.zaki@gmail.com)
+
+![Focus](https://img.shields.io/badge/Focus-AI%20%C2%B7%20Web3%20%C2%B7%20Mobile-d4a574?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-4%2B%20years-22c55e?style=flat-square)
+![Based in](https://img.shields.io/badge/Jakarta-UTC%2B7-6b7280?style=flat-square)
 
 </div>
 
@@ -16,20 +18,9 @@ Production AI and Web3 products, end to end — model → API → shipped app.
 
 ## About
 
-Full-stack engineer, **4+ years** shipping across **AI/ML, Web3, and cross-platform mobile**. Remote, UTC+7.
+Mobile developer with **4+ years** of professional experience, mostly in React Native, working out of **Jakarta, Indonesia**. I run [**Gliana Labs**](https://glianalabs.com), an independent Web3 and AI product lab with three products live.
 
-I build the whole path, not one slice of it: train and serve the model, write the API around it, ship the app users actually touch, then keep it running. Current focus is **turnkey AI services** — computer vision, OCR, speech, chatbots — plus a **Solana tipping platform** for streamers. Going deeper on **Rust** for the performance-critical layer.
-
-```javascript
-const dev = {
-  handle:  "Zetakai",
-  role:    "Full-Stack Engineer",
-  focus:   ["AI/ML", "Web3", "Mobile"],
-  ships:   "model → API → product",
-  scale:   "10+ apps · 10k+ users",
-  reading: "Rust, in anger",
-};
-```
+The AI work is hands-on rather than wrapper-deep: face recognition, object detection, OCR, speech recognition and LLM integration, in the browser and on-premises. **Rust** has moved from reading to shipping — a COSMIC desktop applet, and the on-chain programs behind the arcade.
 
 ---
 
@@ -39,48 +30,54 @@ const dev = {
 <tr>
 <td width="50%" valign="top">
 
-### AI & Web3 Platform
-**Founder · Production**
+### [GlianaAI](https://ai.glianalabs.com)
+**Founder · Live**
 
-Turnkey AI provider: machine learning, computer vision, OCR, chatbots, and custom model development — plus Web3 products including a Solana tipping platform for streamers. Built and operated end to end.
+Pay-per-call AI inference. One HTTP call is one purchase: no signup, no API key, no subscription, because the wallet settles each call as it happens. OpenAI-compatible, so an existing client works against it unchanged.
 
-**Stack:** Python · TensorFlow · FastAPI · React · SvelteKit · Solana
+**128 models · 9 modalities · 24+ providers · 64 tools · from $0.001/call**
+
+**Stack:** TypeScript · Cloudflare Workers · MPP / x402
 
 </td>
 <td width="50%" valign="top">
 
-### [Coco Face Recognition](https://github.com/Zetakai/coco-face-recog)
-**Computer Vision · Production**
+### Published Mobile Apps
+**React Native · 10+ shipped**
 
-Real-time face recognition — detection, embedding, and verification under live camera conditions, not benchmark conditions.
+More than ten applications on Google Play and the App Store — HRIS, logistics tracking, asset management and other business systems, in daily use.
 
-**Stack:** Python · OpenCV · PyTorch · MediaPipe
+[Google Play](https://play.google.com/store/apps/developer?id=Macra) · [App Store](https://apps.apple.com/id/developer/pt-macra-teknologi-indonesia/id1653331270)
+
+**Stack:** React Native · Expo · Firebase · FFmpeg · Maps SDK
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [CocoSpeak](https://github.com/Zetakai/CocoSpeak)
-**Speech · Production**
+### [Signa](https://signa-9rf.pages.dev/)
+**Computer Vision · Live demo**
 
-Text-to-speech and speech processing with natural, expressive output.
+In-browser sign language detection. Reads ASL, SIBI and BISINDO fingerspelling from the camera and builds a live transcript. Inference runs client-side, so no video ever leaves the device.
 
-**Stack:** Python · TensorFlow · Google Cloud Speech
+**Stack:** TypeScript · MediaPipe · TensorFlow.js
 
 </td>
 <td width="50%" valign="top">
 
-### Mobile Applications
-**React Native · 10+ shipped**
+### [desktop-mcp](https://github.com/Zetakai/desktop-mcp)
+**AI Tooling · Open source**
 
-10+ cross-platform apps published to the App Store and Google Play, serving 10,000+ active users.
+Desktop vision and control for language models over MCP, built for Linux and Wayland where the usual computer-use tooling does not run. Absolute uinput input, pixel-exact on COSMIC.
 
-**Stack:** React Native · Expo · Firebase · Maps SDK
+**Stack:** Python · Model Context Protocol
 
 </td>
 </tr>
 </table>
+
+**Also shipping:** [GlianaPay](https://glianapay.com) (Solana tipping for streamers, real-time OBS alerts) · [web3canbefun](https://web3canbefun.com) (Solana arcade) · [COSMIC crypto applet](https://github.com/Gliana-Labs/cosmic-ext-applet-crypto) (Rust) · [gliana-mcp-remote](https://github.com/Gliana-Labs/gliana-mcp-remote) (hosted MCP server) · [gliana-a402](https://github.com/Gliana-Labs/gliana-a402) (x402 on Algorand) · [coco-face-recog](https://github.com/Zetakai/coco-face-recog) · [CocoSpeak](https://github.com/Zetakai/CocoSpeak)
 
 <div align="center">
 
@@ -94,15 +91,15 @@ Text-to-speech and speech processing with natural, expressive output.
 
 | | |
 |---|---|
-| **Languages** | JavaScript · TypeScript · Python · Go · Rust *(learning)* |
-| **Frontend** | React · Next.js · Vue · Nuxt · Svelte / SvelteKit |
+| **Languages** | TypeScript · JavaScript · Python · Go · Rust |
+| **Frontend** | React · Next.js · Svelte / SvelteKit · Vue · Nuxt |
 | **Mobile** | React Native · Expo |
 | **Backend** | Node.js · NestJS · FastAPI · Flask · GraphQL · REST · WebSocket |
-| **AI / ML** | TensorFlow · PyTorch · Keras · scikit-learn · OpenCV · LangChain |
-| **Cloud & Infra** | AWS · Azure · GCP · Firebase · Vercel · Cloudflare |
-| **Tooling** | Git · Docker · FFmpeg · Google Maps SDK |
+| **AI / ML** | PyTorch · TensorFlow · Keras · scikit-learn · OpenCV · MediaPipe · LangChain · Ollama |
+| **Cloud & Infra** | Cloudflare (Workers, Pages, D1, R2) · GCP · AWS · Azure · Firebase · Vercel |
+| **Web3** | Solana · Anchor · x402 / MPP · Algorand |
 
-**Applied AI:** Computer Vision · Face Recognition · Object Detection · OCR · Speech Recognition · LLM Integration
+**Applied AI:** Computer Vision · Face Recognition · Object Detection · OCR · Speech Recognition · LLM Integration · Agents
 
 ---
 
@@ -110,9 +107,9 @@ Text-to-speech and speech processing with natural, expressive output.
 
 <div align="center">
 
-| Apps Shipped | Active Users | Certifications | Experience |
-|:------------:|:------------:|:--------------:|:----------:|
-| **10+** | **10,000+** | **6** | **4+ yrs** |
+| Apps Shipped | Products Live | Certifications | Experience |
+|:------------:|:-------------:|:--------------:|:----------:|
+| **10+** | **3** | **6** | **4+ yrs** |
 
 </div>
 
@@ -134,14 +131,10 @@ Text-to-speech and speech processing with natural, expressive output.
 
 ---
 
-## Contact
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zetakai)
-
-Reach me by opening an issue on any repo here.
-
 **Open to collaborations, high-impact projects, and the occasional hard problem.**
+
+[mfzaki.com](https://mfzaki.com) · [muhammadfarid.zaki@gmail.com](mailto:muhammadfarid.zaki@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mfzaki/)
 
 </div>
