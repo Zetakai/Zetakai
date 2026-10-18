@@ -2,7 +2,7 @@
 
 # Muhammad Farid Zaki
 
-### Founder at Gliana Labs — AI · Web3 · Mobile
+### Full-Stack Engineer — AI · Web3 · Mobile
 
 I ship the whole path: train and serve the model, write the API around it, put the app in the store, keep it running.
 
@@ -18,9 +18,9 @@ I ship the whole path: train and serve the model, write the API around it, put t
 
 ## About
 
-Mobile developer with **4+ years** of professional experience, mostly in React Native, working out of **Jakarta, Indonesia**. I run [**Gliana Labs**](https://glianalabs.com), an independent Web3 and AI product lab with three products live.
+Mobile developer with **4+ years** of professional experience, mostly in React Native, working out of **Jakarta, Indonesia**. I run an independent **Web3 and AI product lab** with three products live.
 
-The AI work is hands-on rather than wrapper-deep: face recognition, object detection, OCR, speech recognition and LLM integration, in the browser and on-premises. **Rust** has moved from reading to shipping — a COSMIC desktop applet, and the on-chain programs behind the arcade.
+The AI work is hands-on rather than wrapper-deep: face recognition, object detection, OCR, speech recognition and LLM integration, in the browser and on-premises. **Rust** has moved from reading to shipping — a desktop panel applet, and on-chain Solana programs.
 
 ---
 
@@ -30,14 +30,14 @@ The AI work is hands-on rather than wrapper-deep: face recognition, object detec
 <tr>
 <td width="50%" valign="top">
 
-### [GlianaAI](https://ai.glianalabs.com)
+### AI Inference Platform
 **Founder · Live**
 
 Pay-per-call AI inference. One HTTP call is one purchase: no signup, no API key, no subscription, because the wallet settles each call as it happens. OpenAI-compatible, so an existing client works against it unchanged.
 
 **128 models · 9 modalities · 24+ providers · 64 tools · from $0.001/call**
 
-**Stack:** TypeScript · Cloudflare Workers · MPP / x402
+**Stack:** TypeScript · Cloudflare Workers · x402
 
 </td>
 <td width="50%" valign="top">
@@ -77,7 +77,7 @@ Desktop vision and control for language models over MCP, built for Linux and Way
 </tr>
 </table>
 
-**Also shipping:** [GlianaPay](https://glianapay.com) (Solana tipping for streamers, real-time OBS alerts) · [web3canbefun](https://web3canbefun.com) (Solana arcade) · [COSMIC crypto applet](https://github.com/Gliana-Labs/cosmic-ext-applet-crypto) (Rust) · [gliana-mcp-remote](https://github.com/Gliana-Labs/gliana-mcp-remote) (hosted MCP server) · [gliana-a402](https://github.com/Gliana-Labs/gliana-a402) (x402 on Algorand) · [coco-face-recog](https://github.com/Zetakai/coco-face-recog) · [CocoSpeak](https://github.com/Zetakai/CocoSpeak)
+**Also shipping:** a Solana tipping platform for streamers with real-time OBS alerts · a Solana arcade with on-chain staking and leaderboard · [solana-crowdfunding](https://github.com/Zetakai/solana-crowdfunding) (Rust) · [coco-face-recog](https://github.com/Zetakai/coco-face-recog) · [CocoSpeak](https://github.com/Zetakai/CocoSpeak) · [llm-chat](https://github.com/Zetakai/llm-chat)
 
 <div align="center">
 
@@ -97,7 +97,7 @@ Desktop vision and control for language models over MCP, built for Linux and Way
 | **Backend** | Node.js · NestJS · FastAPI · Flask · GraphQL · REST · WebSocket |
 | **AI / ML** | PyTorch · TensorFlow · Keras · scikit-learn · OpenCV · MediaPipe · LangChain · Ollama |
 | **Cloud & Infra** | Cloudflare (Workers, Pages, D1, R2) · GCP · AWS · Azure · Firebase · Vercel |
-| **Web3** | Solana · Anchor · x402 / MPP · Algorand |
+| **Web3** | Solana · Anchor · x402 · Algorand |
 
 **Applied AI:** Computer Vision · Face Recognition · Object Detection · OCR · Speech Recognition · LLM Integration · Agents
 
