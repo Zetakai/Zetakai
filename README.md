@@ -33,7 +33,7 @@ The AI work is hands-on rather than wrapper-deep: face recognition, object detec
 ### AI Inference Platform
 **Founder · Live**
 
-Pay-per-call AI inference. One HTTP call is one purchase: no signup, no API key, no subscription, settled as it happens in crypto across several chains, or by card. OpenAI-compatible, so an existing client works against it unchanged.
+Pay-per-call AI inference. One HTTP call is one purchase: no signup, no API key, no subscription, settled as it happens in crypto across several chains, by card, or with QRIS. OpenAI-compatible, so an existing client works against it unchanged.
 
 **128 models · 9 modalities · 24+ providers · 64 tools · from $0.001/call**
 
