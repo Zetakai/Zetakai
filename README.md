@@ -56,12 +56,12 @@ More than ten applications on Google Play and the App Store — HRIS, logistics 
 <tr>
 <td width="50%" valign="top">
 
-### [Signa](https://signa-9rf.pages.dev/)
-**Computer Vision · Live demo**
+### [cosmic-ext-applet-crypto](https://github.com/Gliana-Labs/cosmic-ext-applet-crypto)
+**Rust · Open source · MIT**
 
-In-browser sign language detection. Reads ASL, SIBI and BISINDO fingerspelling from the camera and builds a live transcript. Inference runs client-side, so no video ever leaves the device.
+Live cryptocurrency prices with seven-day sparklines, as a native panel applet for the COSMIC desktop. Built on libcosmic and talking to CoinGecko directly, so there is no API key to configure.
 
-**Stack:** TypeScript · MediaPipe · TensorFlow.js
+**Stack:** Rust · libcosmic · CoinGecko
 
 </td>
 <td width="50%" valign="top">
@@ -77,7 +77,7 @@ Desktop vision and control for language models over MCP, built for Linux and Way
 </tr>
 </table>
 
-**Also shipping:** a Solana tipping platform for streamers with real-time OBS alerts · a Solana arcade with on-chain staking and leaderboard · [solana-crowdfunding](https://github.com/Zetakai/solana-crowdfunding) (Rust) · [coco-face-recog](https://github.com/Zetakai/coco-face-recog) · [CocoSpeak](https://github.com/Zetakai/CocoSpeak) · [llm-chat](https://github.com/Zetakai/llm-chat)
+**Also shipping:** [Signa](https://signa-9rf.pages.dev/) — in-browser sign language detection, ASL/SIBI/BISINDO, inference client-side so no video leaves the device ([source](https://github.com/Zetakai/signa)) · a Solana tipping platform for streamers with real-time OBS alerts · a Solana arcade with on-chain staking and leaderboard · [solana-crowdfunding](https://github.com/Zetakai/solana-crowdfunding) (Rust) · [coco-face-recog](https://github.com/Zetakai/coco-face-recog) · [CocoSpeak](https://github.com/Zetakai/CocoSpeak) · [llm-chat](https://github.com/Zetakai/llm-chat)
 
 <div align="center">
 
@@ -95,7 +95,7 @@ Desktop vision and control for language models over MCP, built for Linux and Way
 | **Frontend** | React · Next.js · Svelte / SvelteKit · Vue · Nuxt |
 | **Mobile** | React Native · Expo |
 | **Backend** | Node.js · NestJS · FastAPI · Flask · GraphQL · REST · WebSocket |
-| **AI / ML** | PyTorch · TensorFlow · Keras · scikit-learn · OpenCV · MediaPipe · LangChain · Ollama |
+| **AI / ML** | PyTorch · TensorFlow · Keras · scikit-learn · OpenCV · MediaPipe · Claude · MCP · LangChain · Ollama |
 | **Cloud & Infra** | Cloudflare (Workers, Pages, D1, R2) · GCP · AWS · Azure · Firebase · Vercel |
 | **Web3** | Solana · Anchor · x402 · Algorand |
 
